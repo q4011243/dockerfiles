@@ -1,0 +1,2 @@
+# google_quay_containers
+利用github拉取国外镜像
